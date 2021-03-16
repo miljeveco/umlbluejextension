@@ -44,6 +44,7 @@ class MenuBuilder extends MenuGenerator
                     stage.sizeToScene(); 
                     stage.setResizable(false);
                     stage.centerOnScreen();
+                    stage.setTitle("UML " + bc.getClass().getName());
                     stage.initStyle(StageStyle.UNDECORATED);
                     stage.initModality(Modality.WINDOW_MODAL);
                     stage.show();
