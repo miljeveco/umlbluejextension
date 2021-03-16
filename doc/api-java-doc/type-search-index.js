@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.bluej.UMLextension","l":"MenuBuilder"},{"p":"org.bluej.UMLextension","l":"Preferences"},{"p":"org.bluej.UMLextension","l":"UMLDisplay"},{"p":"org.bluej.UMLextension","l":"UMLExtension"}]

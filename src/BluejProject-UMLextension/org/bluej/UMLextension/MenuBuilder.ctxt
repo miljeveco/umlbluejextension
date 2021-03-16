@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MenuBuilder
+comment0.text=\n\ Long\ time\ ago\ Ian\ Utting\ developed\ UMLExtension\ for\ BlueJ\n\ https\://www.bluej.org/extensions/UMLextension/UMLextension.jar\n\ https\://www.bluej.org/extensions/extensions.html\n\ \n\ I\ (Milton\ Jesus\ Vera\ Contreras)\ decompiled\ JAR\ file\ \n\ and\ upgraded\ UML\ Extension\ to\ BlueJ5\ using\ JavaFX.\ I\ add\ drag\ funtionality\n\ and\ change\ click\ event\ for\ double\ click\ event\ to\ close\ window.\n\ \n\ This\ class\ has\ a\ few\ changes.\ All\ swing\ code\ was\ changed\ to\ JavaFX\n
+comment1.params=aClass
+comment1.target=javafx.scene.control.MenuItem\ getClassMenuItem(bluej.extensions2.BClass)
+comment2.params=e
+comment2.target=void\ handle(javafx.event.ActionEvent)
+comment3.params=bc\ jmi
+comment3.target=void\ notifyPostClassMenu(bluej.extensions2.BClass,\ javafx.scene.control.MenuItem)
+numComments=4
